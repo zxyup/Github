@@ -17,10 +17,10 @@
 4. 新建远程仓库并关联：在Github上设置好SSH密钥后，新建一个远程仓库， git remote add origin https://github.com/xu-xiaoya/Elegent.git关联
 5. 推送：git push (-u) origin master，把本地仓库的代码推送到远程仓库Github上
 ### 3.多人协作
-1. git clone
-2. 创建自己的分支
-3. 提交到远程仓库
-4. compare and pull request
+- git clone
+- 创建自己的分支
+- 提交到远程仓库
+- compare and pull request
 
 ##### 参考资料
 - [Github配置ssh key的步骤](https://blog.csdn.net/weixin_42310154/article/details/118340458)
