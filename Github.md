@@ -20,7 +20,7 @@
 - git clone
 - 创建自己的分支
 - 提交到远程仓库
-- compare and pull   request
+- compare and pull request
 
 ##### 参考资料
 - [Github配置ssh key的步骤](https://blog.csdn.net/weixin_42310154/article/details/118340458)
